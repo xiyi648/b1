@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>b1项目主页</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>欢迎访问b1.qklm.xyz</h1>
+    <p>这是一个示例页面，包含静态资源供访问。</p>
+    <img src="/image.jpg" alt="示例图片">
+    <script src="/script.js"></script>
+</body>
+</html>
